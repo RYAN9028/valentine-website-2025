@@ -9,12 +9,12 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "ITS A SURPRISEEEE!!! 💝💕💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗','💌','💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -33,23 +33,23 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "ONE MOREEE THINGGG!!,Will you be my Valentine on February 14th, 2025? :3 🌹", // The big question!
+            yesBtn: "Yes!!!!!! :D",                                             // Text for "Yes" button
+            noBtn: "No :("                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW You love me that much huuhhuhuhuhuh?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yayyyy!!! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yayyyy!!! I'm the luckiest person in the world you are a blessing in my life i will love you alwaysssss!!! 🎉💝💖💝💓",
         message: "even though i am far away, come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕💘​💕​💖💌​❤️​"  // These will bounce around
     },
@@ -67,8 +67,8 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
+        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDistance: "40px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
